@@ -1,4 +1,4 @@
-## Mandorian-Painting
+## Mondrian-Painting
 
 ### Description
 The Painting project is a simple web application that displays a painting made up of colored squares arranged in a grid-like pattern.
